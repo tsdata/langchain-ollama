@@ -2,7 +2,7 @@
 name = "gemma-gradio-chatbot"
 version = "0.1.0"
 description = ""
-authors = ["Steve <ontofinance@gmail.com>"]
+authors = [""]
 readme = "README.md"
 
 [tool.poetry.dependencies]
