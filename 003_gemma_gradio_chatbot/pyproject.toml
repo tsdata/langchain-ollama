@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "gemma-gradio-chatbot"
+version = "0.1.0"
+description = ""
+authors = ["Steve <ontofinance@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.1.16"
+gradio = "^4.26.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
